@@ -43,5 +43,6 @@ td {
 }
 
 .edit-info {
-  padding: 140px 20px 0;
+  align-self: flex-end;
+  padding: 0 20px 20px 0;
 }
