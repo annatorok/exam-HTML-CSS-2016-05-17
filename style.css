@@ -1,0 +1,31 @@
+body {
+  background:
+}
+
+.duck-profile {
+  display: flex;
+  width: 540px;
+  border: 1px solid;
+  background: #ccc;
+}
+
+.profile-img {
+  padding: 20px;
+}
+
+.profile-info {
+  border-left: 1px solid;
+  padding-left: 20px;
+}
+
+.info-table {
+  margin-bottom: 20px;
+}
+
+tr {
+  text-align: left;
+}
+
+td {
+  padding-left: 20px;
+}
